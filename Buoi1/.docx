@@ -1,0 +1,8 @@
+thẻ h1 -> h6 giảm dần
+<p> : thẻ đoạn văn 
+<b> làm chữ đậm hơn
+<br>: xuống dòng
+<i> làm chữ ngiêng 
+<hr> làm cái đường ngang 
+<ul> tạo list có dấu chấm tròn
+<li> thẻ list từng danh mục con trong ds
